@@ -7,7 +7,7 @@ about:
   head: 9317ed5
   archived: false
   latestVersion: v1.2.8
-  collectedAt: 2026-09-04T20:00:26Z
+  collectedAt: 2026-09-04T20:38:36Z
 timeline:
   created: 2025-10-26
   lastCommit: 2026-04-13
@@ -80,5 +80,33 @@ total:
   openIssue: 0
   commit: 48
 ---
+path: /home/runner/.x-repo/github.com/thekarel/rum
+collectedAt: 2026-09-04T20:38:37Z
+loc:
+  Go:
+    code: 824
+    comments: 70
+    blanks: 150
+    files: 17
+  Json:
+    code: 53
+    comments: 0
+    blanks: 0
+    files: 11
+  Yaml:
+    code: 20
+    comments: 0
+    blanks: 4
+    files: 2
+  Markdown:
+    code: 0
+    comments: 37
+    blanks: 22
+    files: 1
+total:
+  code: 897
+  comments: 107
+  blanks: 176
+  files: 31
 ---
 
