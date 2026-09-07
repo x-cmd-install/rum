@@ -5,7 +5,7 @@ about:
   head: 9317ed5
   archived: false
   latestVersion: "v1.2.8"
-  collectedAt: 2026-09-07T05:18:19Z
+  collectedAt: 2026-09-07T19:07:48Z
 timeline:
   created: 2025-10-26
   lastCommit: 2026-04-13
@@ -79,7 +79,7 @@ total:
   commit: 48
 ---
 path: /home/runner/.x-repo/github.com/thekarel/rum
-collectedAt: 2026-09-07T05:18:20Z
+collectedAt: 2026-09-07T19:07:49Z
 loc:
   Go:
     code: 824
@@ -110,7 +110,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:18:20+00:00
+  collectedAt: 2026-09-07T19:07:50+00:00
   platform:
     darwin/arm64:
       name:  rum_Darwin_arm64.tar.gz
