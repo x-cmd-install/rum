@@ -5,7 +5,7 @@ about:
   head: 9317ed5
   archived: false
   latestVersion: "v1.2.8"
-  collectedAt: 2026-09-08T02:33:32Z
+  collectedAt: 2026-09-08T05:17:29Z
 timeline:
   created: 2025-10-26
   lastCommit: 2026-04-13
@@ -79,7 +79,7 @@ total:
   commit: 48
 ---
 path: /home/runner/.x-repo/github.com/thekarel/rum
-collectedAt: 2026-09-08T02:33:33Z
+collectedAt: 2026-09-08T05:17:30Z
 loc:
   Go:
     code: 824
