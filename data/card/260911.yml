@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.2.8"
   latestRelease: "v1.2.8"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T00:04:05Z
+  collectedAt: 2026-09-11T05:20:29Z
 timeline:
   created: 2025-10-26
   lastCommit: 2026-04-13
@@ -83,7 +83,7 @@ total:
   commit: 48
 ---
 path: /home/runner/.x-repo/github.com/thekarel/rum
-collectedAt: 2026-09-11T00:04:06Z
+collectedAt: 2026-09-11T05:20:30Z
 loc:
   Go:
     code: 824
