@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 712,
       "digest": "sha256:35110bba7d1b394cc62338cd46040dc8040d96b8ff0eb379bf799c95d5bf3e14",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-04-13T14:18:22Z",
       "updated_at": "2026-04-13T14:18:22Z",
       "browser_download_url": "https://github.com/thekarel/rum/releases/download/v1.2.8/checksums.txt"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 1784002,
       "digest": "sha256:6de1e88194c499aa7b7de6fed6df4538e6ba2995b4db8bf31e8616fbd36f0167",
-      "download_count": 103,
+      "download_count": 104,
       "created_at": "2026-04-13T14:18:20Z",
       "updated_at": "2026-04-13T14:18:21Z",
       "browser_download_url": "https://github.com/thekarel/rum/releases/download/v1.2.8/rum_Linux_x86_64.tar.gz"
