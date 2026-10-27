@@ -47,12 +47,12 @@ Total: **897** lines of code across **31** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-28 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-29 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-31 | 11 | 0 | 0 | 0 | 0 | 23 |
-| last720d | 2024-11-05 | 17 | 0 | 0 | 0 | 0 | 48 |
+| 30d | 2026-09-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-28 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-29 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-30 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-01 | 11 | 0 | 0 | 0 | 0 | 23 |
+| last720d | 2024-11-06 | 17 | 0 | 0 | 0 | 0 | 48 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for rum lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T05:24:55Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T05:37:00Z._
